@@ -5,11 +5,6 @@
 
 <h1 align="center" id="heading">📜 Session 2: The Transformer</h1>
 
-### [Quicklinks](https://github.com/AI-Maker-Space/LLM-Engineering-Foundations-to-SLMs/tree/main/00_AIM_Quicklinks)
-
-| 🤓 Pre-work | 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
-|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
-| [Session 2: Pre-Work](https://www.notion.so/Session-2-The-Transformer-143cd547af3d80cda8c5f3404211c191?pvs=4#143cd547af3d81e8afc8d8dc6e857956)| [Session 2: The Transformer](https://www.notion.so/Session-2-The-Transformer-143cd547af3d80cda8c5f3404211c191) | [Recording](https://us02web.zoom.us/rec/share/vM5Skap8plyutphmdIs6BVDXB2gG4ObS9s0z5B7zG01MieTp5iB0UAQF2gM2_vf7.noILW0tp2Lf7OpZc) (.vZ0+2R+) | [Session 2: The Transformer](https://www.canva.com/design/DAGW9drJwtU/d5pIdoSDGNoTHppA3i9Crg/view?utm_content=DAGW9drJwtU&utm_campaign=designshare&utm_medium=link&utm_source=editor) | You are here! | [Session 2 Assignment: The Transformer (from Scratch)](https://forms.gle/xhtMBxmKLnHH76hK8) | [LLME3 Class Feedback 11/19](https://forms.gle/rAWFD8RGbYUQEN597) |
 
 ## A Note on How AIM Does Assignments:
 
